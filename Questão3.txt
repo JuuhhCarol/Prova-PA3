@@ -1,0 +1,12 @@
+3) Identifique o problema de estilo no código:
+
+&lt;View style={styles.container}&gt;
+  &lt;Text style={styles.titl}&gt;Olá&lt;/Text&gt;
+&lt;/View&gt;
+const styles = StyleSheet.create({
+  title: {
+    fontSize: 30
+  }
+});
+
+D) A classe title não está sendo aplicada corretamente.

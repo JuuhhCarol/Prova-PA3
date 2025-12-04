@@ -1,0 +1,7 @@
+14) Identifique o erro no código abaixo:
+
+&lt;View style={{ justifyContent: &quot;middle&quot;, alignItems: &quot;center&quot; }}&gt;
+  &lt;Text&gt;Hello&lt;/Text&gt;
+&lt;/View&gt;
+
+B) justifyContent não aceita o valor &quot;middle&quot;.

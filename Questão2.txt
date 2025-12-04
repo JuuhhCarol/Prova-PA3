@@ -1,0 +1,10 @@
+2) Analise o erro no código abaixo: 
+
+const [text, setText] = &quot;Hello&quot;;
+&lt;TextInput
+  value={text}
+  onChangeText={setText}
+/&gt;
+
+B) O estado está sendo inicializado com uma string ao invés de um useState.
+

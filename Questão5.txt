@@ -1,0 +1,3 @@
+5) Explique a diferença entre o JavaScript e o TypeScript utilizando exemplos.
+
+JavaScript é dinamicamente tipado enquanto TypeScript adiciona tipagem estática, por exemplo let x = 5 em JS versus let x: number = 5 em TS.

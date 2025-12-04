@@ -1,0 +1,3 @@
+4) Sobre o Flexbox no React Native, qual opção é verdadeira?
+
+B) O valor padrão de flexDirection é column.
